@@ -6,7 +6,7 @@ function App() {
       {/* Navbar */}
       <nav className="nav">
         <div className="container nav-inner">
-          <div className="brand">My Simple Site</div>
+          <div className="brand">My Simple nigerian nigger website</div>
           <ul className="menu">
             <li><a href="#about">About</a></li>
             <li><a href="#features">Features</a></li>
